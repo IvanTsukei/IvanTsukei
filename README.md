@@ -10,8 +10,8 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=IvanTsukei&show_icons=true&theme=tokyonight&hide_border=true"/>
 Hello, I'm Ivan and I'm currently learning Python. I have a major in Finance and currently work as a Financial Analyst. I hope to improve my programming skills and enter the field of data analytics. 
 </p>
-I have over 6 years of experience with graphic design. Check out my [DeviantArt](https://www.deviantart.com/ivantsukei) and [YouTube](https://www.youtube.com/c/Tsukei) tutorials!
 </div>
+I have over 6 years of experience with graphic design. Check out my [DeviantArt](https://www.deviantart.com/ivantsukei) and [YouTube](https://www.youtube.com/c/Tsukei) tutorials!
 <br>
 
 
