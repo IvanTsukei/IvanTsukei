@@ -9,12 +9,13 @@ Hello, I'm Ivan and I'm currently learning Python. I have a major in Finance and
 </p>
 </div>
 <br>
+────
 <p align="center">
 I have over 6 years of experience on graphic design. Check out my DeviantArt and YouTube tutorials!
-<ul>
-<li>[YouTube](https://www.youtube.com/c/Tsukei)</li>
-<li>[DeviantArt](https://www.deviantart.com/ivantsukei)</li>
-</ul>
+<br>
+[YouTube](https://www.youtube.com/c/Tsukei)</li>
+[DeviantArt](https://www.deviantart.com/ivantsukei)</li>
+
 </p>
 
 <br>
