@@ -1,5 +1,7 @@
-
-<img align="center" src="MyStats.png" alt="IvanTsukei MyStats Banner" width="446" height="68">
+<div align="center">
+  <a href="https://github.com/IvanTsukei">
+    <img src="MyStats.png" alt="IvanTsukei MyStats Banner" width="446" height="68">
+  </a>
 
 <br/>
 <p align="left">
