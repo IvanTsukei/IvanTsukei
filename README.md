@@ -5,11 +5,16 @@
 <br />
 ──────────────
 <p align="center">
-Hello, I'm Ivan and I'm currently learning Python. I have a major in Finance and currently work as a Financial Analyst. I hope to improve my programming skills and enter the field of data analytics.
+Hello, I'm Ivan and I'm currently learning Python. I have a major in Finance and currently work as a Financial Analyst. I hope to improve my programming skills and enter the field of data analytics. 
 </p>
 </div>
 <br>
 
+I have over 6 years of experience on graphic design. Check out my DeviantArt and YouTube tutorials!
+* [YouTube](https://www.youtube.com/c/Tsukei)
+* [DeviantArt](https://www.deviantart.com/ivantsukei)
+
+<br>
 
 <div align="center">
   <a href="https://github.com/IvanTsukei">
