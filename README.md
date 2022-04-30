@@ -1,3 +1,6 @@
+
+<img align="center" src="MyStats.png" alt="IvanTsukei MyStats Banner">
+
 <br/>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
