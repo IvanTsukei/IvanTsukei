@@ -11,11 +11,7 @@ Hello, I'm Ivan and I'm currently learning Python. I have a major in Finance and
 <br>
 ────
 <p align="center">
-I have over 6 years of experience on graphic design. Check out my DeviantArt and YouTube tutorials!
-<br>
-[YouTube](https://www.youtube.com/c/Tsukei)</li>
-[DeviantArt](https://www.deviantart.com/ivantsukei)</li>
-
+I have over 6 years of experience with graphic design. Check out my [DeviantArt](https://www.deviantart.com/ivantsukei) and [YouTube](https://www.youtube.com/c/Tsukei) tutorials!
 </p>
 
 <br>
