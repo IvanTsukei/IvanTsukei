@@ -9,7 +9,7 @@ Hello, I'm Ivan and I'm currently learning Python. I have a major in Finance and
 <br>
 I have over 6 years of experience with graphic design. Check out my [DeviantArt](https://www.deviantart.com/ivantsukei) and [YouTube](https://www.youtube.com/c/Tsukei) tutorials!
 </p>
-<p><img align="center"
+<p><img align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=IvanTsukei&show_icons=true&theme=tokyonight&hide_border=true"/>
   </p>
 </div>
