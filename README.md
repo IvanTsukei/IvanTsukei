@@ -9,7 +9,6 @@ Hello, I'm Ivan and I'm currently learning Python. I have a major in Finance and
 </p>
 </div>
 <br>
-────
 
 I have over 6 years of experience with graphic design. Check out my [DeviantArt](https://www.deviantart.com/ivantsukei) and [YouTube](https://www.youtube.com/c/Tsukei) tutorials!
 
