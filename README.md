@@ -3,8 +3,10 @@
     <img src="welcome.png" alt="IvanTsukei Welcome Banner" width="446" height="68">
   </a>
 ------
+<p align="center">
 Hello, I'm Ivan and I'm currently learning Python. I have a major in Finance and currently work as a Financial Analyst. I hope to improve my programming skills and enter the field of data analytics.
-
+</p>
+</div>
 <br>
 
 <p>
