@@ -1,5 +1,5 @@
 
-<img align="center" src="MyStats.png" alt="IvanTsukei MyStats Banner">
+<img align="center" src="MyStats.png" alt="IvanTsukei MyStats Banner" width="446" height="68">
 
 <br/>
 <p align="left">
