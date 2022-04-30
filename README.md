@@ -2,7 +2,7 @@
   <a href="https://github.com/IvanTsukei">
     <img src="welcome.png" alt="IvanTsukei Welcome Banner" width="446" height="68">
   </a>
- ------
+------
 Hello, I'm Ivan and I'm currently learning Python. I have a major in Finance and currently work as a Financial Analyst. I hope to improve my programming skills and enter the field of data analytics.
 
 <br>
@@ -17,7 +17,7 @@ Hello, I'm Ivan and I'm currently learning Python. I have a major in Finance and
   <a href="https://github.com/IvanTsukei">
     <img src="MyStats.png" alt="IvanTsukei MyStats Banner" width="446" height="68">
   </a>
- ------
+------
 <br>
 <br/>
 <p align="left">
