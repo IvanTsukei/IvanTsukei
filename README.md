@@ -10,11 +10,6 @@ Hello, I'm Ivan and I'm currently learning Python. I have a major in Finance and
 </div>
 <br>
 
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-</div>
-</p>
 
 <div align="center">
   <a href="https://github.com/IvanTsukei">
@@ -34,6 +29,8 @@ Hello, I'm Ivan and I'm currently learning Python. I have a major in Finance and
 
 [![Ivan Activity Graph](https://activity-graph.herokuapp.com/graph?username=IvanTsukei&custom_title=IvanTsukei's%20Contribution%20Graph&theme=tokyonight&bg_color=1a1b27&hide_border=true&line=d1a01f&point=c58545)](https://IvanTsukei.dev)
 
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ivantsukei" id="counter">
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+</div>
 </p>
